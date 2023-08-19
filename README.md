@@ -18,5 +18,6 @@ A powerful yet user-friendly quantitative finance application designed to provid
 
 
 #### Visit Tradesense.io to learn more lmao!
+<img src="https://github.com/jojo142/TradeSense.io/main/assets/76130563/fd9a02b1-cb54-48b2-97ba-39c83a333c4e.gif" alt="TSgif" width="200">
 
 ![TSgif](https://github.com/jojo142/TradeSense.io/assets/76130563/fd9a02b1-cb54-48b2-97ba-39c83a333c4e)
