@@ -1,4 +1,4 @@
-# TradeSense.io
+
 Quantitative Finance Application
 
 still not done yet guys lol 
@@ -17,6 +17,4 @@ A powerful yet user-friendly quantitative finance application designed to provid
 - Trading Insights: Benefit from comprehensive market insights and analysis. Make use of data-driven research to enhance your trading strategies.
 - User-Friendly Interface: Tradesense.io boasts an intuitive and easy-to-navigate interface, ensuring that both beginners and experienced traders can effectively harness its capabilities.
 
-
-#### Visit Tradesense.io to learn more lmao!
 
