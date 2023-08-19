@@ -1,7 +1,6 @@
 
 #### Quantitative Finance Application
 
-still not done yet guys lol 
 I also changed up the interface prototype drastically from my previous milestone for easier usage.
 Previous prototype: https://github.com/jojo142/QuantPortfolio
 
